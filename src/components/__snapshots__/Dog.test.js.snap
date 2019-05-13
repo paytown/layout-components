@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dog Component show that pup 1`] = `
+<main>
+  <h3>
+    Name
+  </h3>
+  <p>
+    Jimmothy
+  </p>
+  <h3>
+    Age
+  </h3>
+  <p>
+    311
+  </p>
+  <h3>
+    Sign
+  </h3>
+  <p>
+    virgo
+  </p>
+  <img
+    src="/my/image"
+  />
+</main>
+`;
